@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="bEi8lznH-2joSXReBeeZ">
+    <mxGraphModel dx="826" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7aCBthvOdcS8OaW7zEJK-1" parent="1" style="whiteSpace=wrap;html=1;" value="User" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7aCBthvOdcS8OaW7zEJK-2" parent="1" style="whiteSpace=wrap;html=1;" value="CLI&amp;nbsp;&lt;div&gt;Commands go in, and results go out&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="7aCBthvOdcS8OaW7zEJK-3" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry relative="1" width="120" as="geometry">
+            <Array as="points" />
+            <mxPoint x="425" y="110" as="sourcePoint" />
+            <mxPoint x="425" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7aCBthvOdcS8OaW7zEJK-5" parent="1" style="whiteSpace=wrap;html=1;" value="Stats&lt;div&gt;Totals and summaries&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="7aCBthvOdcS8OaW7zEJK-6" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" value="">
+          <mxGeometry relative="1" width="120" as="geometry">
+            <Array as="points" />
+            <mxPoint x="360" y="280" as="sourcePoint" />
+            <mxPoint x="290" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7aCBthvOdcS8OaW7zEJK-7" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry relative="1" width="120" as="geometry">
+            <Array as="points" />
+            <mxPoint x="280" y="369.5" as="sourcePoint" />
+            <mxPoint x="520" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7aCBthvOdcS8OaW7zEJK-8" parent="1" style="whiteSpace=wrap;html=1;" value="Repository Interface&lt;div&gt;Interface&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="7aCBthvOdcS8OaW7zEJK-9" parent="1" style="whiteSpace=wrap;html=1;" value="Database implementation&lt;div&gt;Code that contains SQL&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="7aCBthvOdcS8OaW7zEJK-10" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry relative="1" width="120" as="geometry">
+            <Array as="points" />
+            <mxPoint x="589.5" y="420" as="sourcePoint" />
+            <mxPoint x="589.5" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7aCBthvOdcS8OaW7zEJK-11" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry relative="1" width="120" as="geometry">
+            <Array as="points" />
+            <mxPoint x="500" y="270" as="sourcePoint" />
+            <mxPoint x="580" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7aCBthvOdcS8OaW7zEJK-12" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry relative="1" width="120" as="geometry">
+            <Array as="points" />
+            <mxPoint x="495" y="569.5" as="sourcePoint" />
+            <mxPoint x="400" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7aCBthvOdcS8OaW7zEJK-13" parent="1" style="whiteSpace=wrap;html=1;" value="Database&lt;div&gt;SQLite&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="540" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
